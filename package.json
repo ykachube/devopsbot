@@ -1,0 +1,22 @@
+{
+  "name": "devopsbot",
+  "version": "1.0.0",
+  "description": "devops chat bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ykachube/devopsbot.git"
+  },
+  "author": "yury kachubeyeu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ykachube/devopsbot/issues"
+  },
+  "homepage": "https://github.com/ykachube/devopsbot#readme",
+  "dependencies": {
+    "botbuilder": "^3.14.0"
+  }
+}
